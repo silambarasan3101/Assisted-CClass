@@ -1,0 +1,8 @@
+E:\Assisted\Assisted-Classes\Assisted-Classes\bin\Debug\Assisted-Classes.exe.config
+E:\Assisted\Assisted-Classes\Assisted-Classes\bin\Debug\Assisted-Classes.exe
+E:\Assisted\Assisted-Classes\Assisted-Classes\bin\Debug\Assisted-Classes.pdb
+E:\Assisted\Assisted-Classes\Assisted-Classes\obj\Debug\Assisted-Classes.csproj.AssemblyReference.cache
+E:\Assisted\Assisted-Classes\Assisted-Classes\obj\Debug\Assisted-Classes.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\Assisted-Classes\Assisted-Classes\obj\Debug\Assisted-Classes.csproj.CoreCompileInputs.cache
+E:\Assisted\Assisted-Classes\Assisted-Classes\obj\Debug\Assisted-Classes.exe
+E:\Assisted\Assisted-Classes\Assisted-Classes\obj\Debug\Assisted-Classes.pdb
